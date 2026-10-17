@@ -180,7 +180,7 @@ jspm_packages/
 bower_components/
 
 # Package manager files
-package-lock.json
+!frontend/package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-debug.log*
@@ -251,3 +251,9 @@ Desktop.ini
 .turbo
 .eslintcache
 .stylelintcache
+data/
+MarketInsight/web/
+frontend/test-results/
+frontend/playwright-report/
+.env.*
+!.env.example

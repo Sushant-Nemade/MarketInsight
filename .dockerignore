@@ -1,0 +1,11 @@
+.git
+.venv
+.env
+.env.*
+build
+data
+dist
+**/node_modules
+**/test-results
+**/__pycache__
+MarketInsight/web

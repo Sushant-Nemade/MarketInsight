@@ -1,0 +1,52 @@
+name: Deploy Market Insight Reference
+
+on:
+  workflow_run:
+    workflows: [Verify Market Insight]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: market-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
+        with:
+          python-version: '3.13'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: python -m pip install uv==0.13.0
+      - run: uv sync --frozen --no-dev
+      - run: uv run --frozen python -m scripts.build_demo
+      - run: npm ci --ignore-scripts
+        working-directory: frontend
+      - run: npm run build -- --base=/${{ github.event.repository.name }}/ --logLevel error
+        working-directory: frontend
+      - run: node scripts/licenses.mjs
+        working-directory: frontend
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+      - name: Publish reference site
+        id: deployment
+        uses: actions/deploy-pages@v4

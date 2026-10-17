@@ -1,21 +1,28 @@
 {
-  "name": "frontend",
+  "name": "market-insight-workspace",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "playwright test",
+    "format:check": "prettier --check src tests playwright.config.ts vite.config.ts index.html"
   },
   "dependencies": {
-    "@crayonai/react-ui": "^0.9.7",
-    "@thesysai/genui-sdk": "^0.7.7",
+    "chart.js": "^4.5.0",
+    "lucide-react": "^0.468.0",
+    "zod": "^4.1.0",
+    "@fontsource/ibm-plex-sans": "^5.2.0",
+    "@fontsource/ibm-plex-mono": "^5.2.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "prettier": "^3.6.2",
     "@eslint/js": "^9.39.1",
     "@types/node": "^24.10.1",
     "@types/react": "^19.2.5",

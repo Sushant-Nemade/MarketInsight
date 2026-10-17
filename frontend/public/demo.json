@@ -1,0 +1,2216 @@
+[
+  {
+    "question": "",
+    "id": "32683423-665c-5ebd-96ee-a94a6578dbee",
+    "created_at": "2026-10-01T16:00:00Z",
+    "mode": "sample",
+    "ticker": "DEMO-A",
+    "name": "Northstar Systems",
+    "currency": "USD",
+    "description": "Fictional technology company used to demonstrate evidence-based research. All prices, financial statements and ownership records in this sample are invented.",
+    "sector": "Technology",
+    "price": 154.35,
+    "previous_close": 154.19,
+    "price_as_of": "2026-10-01T16:00:00Z",
+    "price_kind": "synthetic",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "close": 143.8,
+        "volume": 1000000
+      },
+      {
+        "date": "2026-06-02",
+        "close": 144.65,
+        "volume": 1001237
+      },
+      {
+        "date": "2026-06-03",
+        "close": 145.45,
+        "volume": 1002474
+      },
+      {
+        "date": "2026-06-04",
+        "close": 146.19,
+        "volume": 1003711
+      },
+      {
+        "date": "2026-06-05",
+        "close": 146.84,
+        "volume": 1004948
+      },
+      {
+        "date": "2026-06-08",
+        "close": 147.38,
+        "volume": 1006185
+      },
+      {
+        "date": "2026-06-09",
+        "close": 147.79,
+        "volume": 1007422
+      },
+      {
+        "date": "2026-06-10",
+        "close": 148.06,
+        "volume": 1008659
+      },
+      {
+        "date": "2026-06-11",
+        "close": 148.18,
+        "volume": 1009896
+      },
+      {
+        "date": "2026-06-12",
+        "close": 148.16,
+        "volume": 1011133
+      },
+      {
+        "date": "2026-06-15",
+        "close": 148.0,
+        "volume": 1012370
+      },
+      {
+        "date": "2026-06-16",
+        "close": 147.7,
+        "volume": 1013607
+      },
+      {
+        "date": "2026-06-17",
+        "close": 147.29,
+        "volume": 1014844
+      },
+      {
+        "date": "2026-06-18",
+        "close": 146.78,
+        "volume": 1016081
+      },
+      {
+        "date": "2026-06-19",
+        "close": 146.19,
+        "volume": 1017318
+      },
+      {
+        "date": "2026-06-22",
+        "close": 145.55,
+        "volume": 1018555
+      },
+      {
+        "date": "2026-06-23",
+        "close": 144.89,
+        "volume": 1019792
+      },
+      {
+        "date": "2026-06-24",
+        "close": 144.24,
+        "volume": 1021029
+      },
+      {
+        "date": "2026-06-25",
+        "close": 143.62,
+        "volume": 1022266
+      },
+      {
+        "date": "2026-06-26",
+        "close": 143.06,
+        "volume": 1023503
+      },
+      {
+        "date": "2026-06-29",
+        "close": 142.59,
+        "volume": 1024740
+      },
+      {
+        "date": "2026-06-30",
+        "close": 142.22,
+        "volume": 1025977
+      },
+      {
+        "date": "2026-07-01",
+        "close": 141.98,
+        "volume": 1027214
+      },
+      {
+        "date": "2026-07-02",
+        "close": 141.87,
+        "volume": 1028451
+      },
+      {
+        "date": "2026-07-03",
+        "close": 141.9,
+        "volume": 1029688
+      },
+      {
+        "date": "2026-07-06",
+        "close": 142.08,
+        "volume": 1030925
+      },
+      {
+        "date": "2026-07-07",
+        "close": 142.39,
+        "volume": 1032162
+      },
+      {
+        "date": "2026-07-08",
+        "close": 142.84,
+        "volume": 1033399
+      },
+      {
+        "date": "2026-07-09",
+        "close": 143.4,
+        "volume": 1034636
+      },
+      {
+        "date": "2026-07-10",
+        "close": 144.07,
+        "volume": 1035873
+      },
+      {
+        "date": "2026-07-13",
+        "close": 144.8,
+        "volume": 1037110
+      },
+      {
+        "date": "2026-07-14",
+        "close": 145.59,
+        "volume": 1038347
+      },
+      {
+        "date": "2026-07-15",
+        "close": 146.4,
+        "volume": 1039584
+      },
+      {
+        "date": "2026-07-16",
+        "close": 147.22,
+        "volume": 1040821
+      },
+      {
+        "date": "2026-07-17",
+        "close": 148.0,
+        "volume": 1042058
+      },
+      {
+        "date": "2026-07-20",
+        "close": 148.74,
+        "volume": 1043295
+      },
+      {
+        "date": "2026-07-21",
+        "close": 149.39,
+        "volume": 1044532
+      },
+      {
+        "date": "2026-07-22",
+        "close": 149.96,
+        "volume": 1045769
+      },
+      {
+        "date": "2026-07-23",
+        "close": 150.42,
+        "volume": 1047006
+      },
+      {
+        "date": "2026-07-24",
+        "close": 150.76,
+        "volume": 1048243
+      },
+      {
+        "date": "2026-07-27",
+        "close": 150.98,
+        "volume": 1049480
+      },
+      {
+        "date": "2026-07-28",
+        "close": 151.08,
+        "volume": 1050717
+      },
+      {
+        "date": "2026-07-29",
+        "close": 151.06,
+        "volume": 1051954
+      },
+      {
+        "date": "2026-07-30",
+        "close": 150.94,
+        "volume": 1053191
+      },
+      {
+        "date": "2026-07-31",
+        "close": 150.73,
+        "volume": 1054428
+      },
+      {
+        "date": "2026-08-03",
+        "close": 150.45,
+        "volume": 1055665
+      },
+      {
+        "date": "2026-08-04",
+        "close": 150.13,
+        "volume": 1056902
+      },
+      {
+        "date": "2026-08-05",
+        "close": 149.78,
+        "volume": 1058139
+      },
+      {
+        "date": "2026-08-06",
+        "close": 149.43,
+        "volume": 1059376
+      },
+      {
+        "date": "2026-08-07",
+        "close": 149.11,
+        "volume": 1060613
+      },
+      {
+        "date": "2026-08-10",
+        "close": 148.85,
+        "volume": 1061850
+      },
+      {
+        "date": "2026-08-11",
+        "close": 148.66,
+        "volume": 1063087
+      },
+      {
+        "date": "2026-08-12",
+        "close": 148.57,
+        "volume": 1064324
+      },
+      {
+        "date": "2026-08-13",
+        "close": 148.59,
+        "volume": 1065561
+      },
+      {
+        "date": "2026-08-14",
+        "close": 148.74,
+        "volume": 1066798
+      },
+      {
+        "date": "2026-08-17",
+        "close": 149.01,
+        "volume": 1068035
+      },
+      {
+        "date": "2026-08-18",
+        "close": 149.42,
+        "volume": 1069272
+      },
+      {
+        "date": "2026-08-19",
+        "close": 149.95,
+        "volume": 1070509
+      },
+      {
+        "date": "2026-08-20",
+        "close": 150.6,
+        "volume": 1071746
+      },
+      {
+        "date": "2026-08-21",
+        "close": 151.35,
+        "volume": 1072983
+      },
+      {
+        "date": "2026-08-24",
+        "close": 152.19,
+        "volume": 1074220
+      },
+      {
+        "date": "2026-08-25",
+        "close": 153.09,
+        "volume": 1075457
+      },
+      {
+        "date": "2026-08-26",
+        "close": 154.03,
+        "volume": 1076694
+      },
+      {
+        "date": "2026-08-27",
+        "close": 154.98,
+        "volume": 1077931
+      },
+      {
+        "date": "2026-08-28",
+        "close": 155.92,
+        "volume": 1079168
+      },
+      {
+        "date": "2026-08-31",
+        "close": 156.8,
+        "volume": 1080405
+      },
+      {
+        "date": "2026-09-01",
+        "close": 157.62,
+        "volume": 1081642
+      },
+      {
+        "date": "2026-09-02",
+        "close": 158.34,
+        "volume": 1082879
+      },
+      {
+        "date": "2026-09-03",
+        "close": 158.95,
+        "volume": 1084116
+      },
+      {
+        "date": "2026-09-04",
+        "close": 159.43,
+        "volume": 1085353
+      },
+      {
+        "date": "2026-09-07",
+        "close": 159.76,
+        "volume": 1086590
+      },
+      {
+        "date": "2026-09-08",
+        "close": 159.95,
+        "volume": 1087827
+      },
+      {
+        "date": "2026-09-09",
+        "close": 159.98,
+        "volume": 1089064
+      },
+      {
+        "date": "2026-09-10",
+        "close": 159.87,
+        "volume": 1090301
+      },
+      {
+        "date": "2026-09-11",
+        "close": 159.63,
+        "volume": 1091538
+      },
+      {
+        "date": "2026-09-14",
+        "close": 159.26,
+        "volume": 1092775
+      },
+      {
+        "date": "2026-09-15",
+        "close": 158.79,
+        "volume": 1094012
+      },
+      {
+        "date": "2026-09-16",
+        "close": 158.25,
+        "volume": 1095249
+      },
+      {
+        "date": "2026-09-17",
+        "close": 157.65,
+        "volume": 1096486
+      },
+      {
+        "date": "2026-09-18",
+        "close": 157.03,
+        "volume": 1097723
+      },
+      {
+        "date": "2026-09-21",
+        "close": 156.41,
+        "volume": 1098960
+      },
+      {
+        "date": "2026-09-22",
+        "close": 155.82,
+        "volume": 1100197
+      },
+      {
+        "date": "2026-09-23",
+        "close": 155.29,
+        "volume": 1101434
+      },
+      {
+        "date": "2026-09-24",
+        "close": 154.84,
+        "volume": 1102671
+      },
+      {
+        "date": "2026-09-25",
+        "close": 154.49,
+        "volume": 1103908
+      },
+      {
+        "date": "2026-09-28",
+        "close": 154.26,
+        "volume": 1105145
+      },
+      {
+        "date": "2026-09-29",
+        "close": 154.15,
+        "volume": 1106382
+      },
+      {
+        "date": "2026-09-30",
+        "close": 154.19,
+        "volume": 1107619
+      },
+      {
+        "date": "2026-10-01",
+        "close": 154.35,
+        "volume": 1108856
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Market cap",
+        "value": 28400000000,
+        "unit": "USD"
+      },
+      {
+        "label": "P/E ratio",
+        "value": 24.6,
+        "unit": "x"
+      },
+      {
+        "label": "Revenue",
+        "value": 9200000000,
+        "unit": "USD"
+      },
+      {
+        "label": "Employees",
+        "value": 14500,
+        "unit": ""
+      }
+    ],
+    "tables": [
+      {
+        "id": "income",
+        "title": "Income statement",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            9200000000,
+            8400000000
+          ],
+          [
+            "Operating income",
+            1820000000,
+            1560000000
+          ],
+          [
+            "Net income",
+            1220000000,
+            1080000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "balance",
+        "title": "Balance sheet",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Total assets",
+            18000000000,
+            17000000000
+          ],
+          [
+            "Total liabilities",
+            7800000000,
+            7600000000
+          ],
+          [
+            "Stockholder equity",
+            10200000000,
+            9400000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "cashflow",
+        "title": "Cash flow",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Operating cash flow",
+            2100000000,
+            1800000000
+          ],
+          [
+            "Capital expenditure",
+            -640000000,
+            -590000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "institutional",
+        "title": "Institutional holders",
+        "columns": [
+          "Holder",
+          "Shares",
+          "Ownership"
+        ],
+        "rows": [
+          [
+            "Sample Capital",
+            8400000,
+            "6.2%"
+          ],
+          [
+            "Example Index Fund",
+            6200000,
+            "4.6%"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "major",
+        "title": "Major shareholders",
+        "columns": [
+          "Group",
+          "Ownership"
+        ],
+        "rows": [
+          [
+            "Institutions",
+            "64%"
+          ],
+          [
+            "Insiders",
+            "8%"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "mutual",
+        "title": "Mutual fund holders",
+        "columns": [
+          "Holder",
+          "Shares"
+        ],
+        "rows": [
+          [
+            "Fictional Equity Fund",
+            2100000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "insiders",
+        "title": "Insider transactions",
+        "columns": [
+          "Date",
+          "Action",
+          "Shares"
+        ],
+        "rows": [
+          [
+            "2026-09-01",
+            "Sample purchase",
+            2000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "recommendations",
+        "title": "Analyst coverage",
+        "columns": [
+          "Period",
+          "Strong buy",
+          "Buy",
+          "Hold",
+          "Sell"
+        ],
+        "rows": [
+          [
+            "Sample month",
+            2,
+            5,
+            7,
+            1
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "analyst_summary",
+        "title": "Coverage summary",
+        "columns": [
+          "Metric",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Fictional analyst count",
+            15
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "dividends",
+        "title": "Dividend history",
+        "columns": [
+          "Date",
+          "Amount"
+        ],
+        "rows": [
+          [
+            "2026-08-15",
+            0.42
+          ],
+          [
+            "2026-05-15",
+            0.4
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "splits",
+        "title": "Stock splits",
+        "columns": [
+          "Date",
+          "Ratio"
+        ],
+        "rows": [
+          [
+            "2024-06-01",
+            "2:1 (fictional)"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      }
+    ],
+    "news": [
+      {
+        "title": "Fictional quarterly update published",
+        "publisher": "Synthetic reference",
+        "url": "https://github.com/Sushant-Nemade/MarketInsight",
+        "published_at": "2026-09-25"
+      }
+    ],
+    "summary": "Northstar Systems is a fictional company. Its sample quote is 154.35 USD as of October 1, 2026. The included statements demonstrate comparative research, not a verified investment opportunity. Review the financial, ownership and event tables alongside their source labels. No live market data or AI inference is used in this reference.",
+    "analysis_kind": "reference",
+    "sources": [
+      {
+        "name": "Authored synthetic reference dataset",
+        "url": "https://github.com/Sushant-Nemade/MarketInsight",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "limitations": [
+      "All sample companies and figures are fictional.",
+      "No live market lookup or AI inference occurred.",
+      "Educational research only; not investment advice."
+    ]
+  },
+  {
+    "question": "",
+    "id": "8232e0a4-3c1c-5e62-9126-6246760e99e4",
+    "created_at": "2026-10-01T16:00:00Z",
+    "mode": "sample",
+    "ticker": "DEMO-B",
+    "name": "Cedar Energy",
+    "currency": "USD",
+    "description": "Fictional energy company used to demonstrate evidence-based research. All prices, financial statements and ownership records in this sample are invented.",
+    "sector": "Energy",
+    "price": 90.99,
+    "previous_close": 90.8,
+    "price_as_of": "2026-10-01T16:00:00Z",
+    "price_kind": "synthetic",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "close": 77.8,
+        "volume": 1000000
+      },
+      {
+        "date": "2026-06-02",
+        "close": 78.68,
+        "volume": 1001237
+      },
+      {
+        "date": "2026-06-03",
+        "close": 79.51,
+        "volume": 1002474
+      },
+      {
+        "date": "2026-06-04",
+        "close": 80.28,
+        "volume": 1003711
+      },
+      {
+        "date": "2026-06-05",
+        "close": 80.96,
+        "volume": 1004948
+      },
+      {
+        "date": "2026-06-08",
+        "close": 81.53,
+        "volume": 1006185
+      },
+      {
+        "date": "2026-06-09",
+        "close": 81.97,
+        "volume": 1007422
+      },
+      {
+        "date": "2026-06-10",
+        "close": 82.27,
+        "volume": 1008659
+      },
+      {
+        "date": "2026-06-11",
+        "close": 82.42,
+        "volume": 1009896
+      },
+      {
+        "date": "2026-06-12",
+        "close": 82.43,
+        "volume": 1011133
+      },
+      {
+        "date": "2026-06-15",
+        "close": 82.3,
+        "volume": 1012370
+      },
+      {
+        "date": "2026-06-16",
+        "close": 82.03,
+        "volume": 1013607
+      },
+      {
+        "date": "2026-06-17",
+        "close": 81.65,
+        "volume": 1014844
+      },
+      {
+        "date": "2026-06-18",
+        "close": 81.17,
+        "volume": 1016081
+      },
+      {
+        "date": "2026-06-19",
+        "close": 80.61,
+        "volume": 1017318
+      },
+      {
+        "date": "2026-06-22",
+        "close": 80.0,
+        "volume": 1018555
+      },
+      {
+        "date": "2026-06-23",
+        "close": 79.37,
+        "volume": 1019792
+      },
+      {
+        "date": "2026-06-24",
+        "close": 78.75,
+        "volume": 1021029
+      },
+      {
+        "date": "2026-06-25",
+        "close": 78.16,
+        "volume": 1022266
+      },
+      {
+        "date": "2026-06-26",
+        "close": 77.63,
+        "volume": 1023503
+      },
+      {
+        "date": "2026-06-29",
+        "close": 77.19,
+        "volume": 1024740
+      },
+      {
+        "date": "2026-06-30",
+        "close": 76.85,
+        "volume": 1025977
+      },
+      {
+        "date": "2026-07-01",
+        "close": 76.64,
+        "volume": 1027214
+      },
+      {
+        "date": "2026-07-02",
+        "close": 76.56,
+        "volume": 1028451
+      },
+      {
+        "date": "2026-07-03",
+        "close": 76.62,
+        "volume": 1029688
+      },
+      {
+        "date": "2026-07-06",
+        "close": 76.83,
+        "volume": 1030925
+      },
+      {
+        "date": "2026-07-07",
+        "close": 77.17,
+        "volume": 1032162
+      },
+      {
+        "date": "2026-07-08",
+        "close": 77.65,
+        "volume": 1033399
+      },
+      {
+        "date": "2026-07-09",
+        "close": 78.24,
+        "volume": 1034636
+      },
+      {
+        "date": "2026-07-10",
+        "close": 78.94,
+        "volume": 1035873
+      },
+      {
+        "date": "2026-07-13",
+        "close": 79.7,
+        "volume": 1037110
+      },
+      {
+        "date": "2026-07-14",
+        "close": 80.52,
+        "volume": 1038347
+      },
+      {
+        "date": "2026-07-15",
+        "close": 81.36,
+        "volume": 1039584
+      },
+      {
+        "date": "2026-07-16",
+        "close": 82.21,
+        "volume": 1040821
+      },
+      {
+        "date": "2026-07-17",
+        "close": 83.02,
+        "volume": 1042058
+      },
+      {
+        "date": "2026-07-20",
+        "close": 83.79,
+        "volume": 1043295
+      },
+      {
+        "date": "2026-07-21",
+        "close": 84.47,
+        "volume": 1044532
+      },
+      {
+        "date": "2026-07-22",
+        "close": 85.07,
+        "volume": 1045769
+      },
+      {
+        "date": "2026-07-23",
+        "close": 85.56,
+        "volume": 1047006
+      },
+      {
+        "date": "2026-07-24",
+        "close": 85.93,
+        "volume": 1048243
+      },
+      {
+        "date": "2026-07-27",
+        "close": 86.18,
+        "volume": 1049480
+      },
+      {
+        "date": "2026-07-28",
+        "close": 86.31,
+        "volume": 1050717
+      },
+      {
+        "date": "2026-07-29",
+        "close": 86.32,
+        "volume": 1051954
+      },
+      {
+        "date": "2026-07-30",
+        "close": 86.23,
+        "volume": 1053191
+      },
+      {
+        "date": "2026-07-31",
+        "close": 86.05,
+        "volume": 1054428
+      },
+      {
+        "date": "2026-08-03",
+        "close": 85.8,
+        "volume": 1055665
+      },
+      {
+        "date": "2026-08-04",
+        "close": 85.51,
+        "volume": 1056902
+      },
+      {
+        "date": "2026-08-05",
+        "close": 85.19,
+        "volume": 1058139
+      },
+      {
+        "date": "2026-08-06",
+        "close": 84.87,
+        "volume": 1059376
+      },
+      {
+        "date": "2026-08-07",
+        "close": 84.58,
+        "volume": 1060613
+      },
+      {
+        "date": "2026-08-10",
+        "close": 84.35,
+        "volume": 1061850
+      },
+      {
+        "date": "2026-08-11",
+        "close": 84.19,
+        "volume": 1063087
+      },
+      {
+        "date": "2026-08-12",
+        "close": 84.13,
+        "volume": 1064324
+      },
+      {
+        "date": "2026-08-13",
+        "close": 84.18,
+        "volume": 1065561
+      },
+      {
+        "date": "2026-08-14",
+        "close": 84.36,
+        "volume": 1066798
+      },
+      {
+        "date": "2026-08-17",
+        "close": 84.66,
+        "volume": 1068035
+      },
+      {
+        "date": "2026-08-18",
+        "close": 85.1,
+        "volume": 1069272
+      },
+      {
+        "date": "2026-08-19",
+        "close": 85.66,
+        "volume": 1070509
+      },
+      {
+        "date": "2026-08-20",
+        "close": 86.34,
+        "volume": 1071746
+      },
+      {
+        "date": "2026-08-21",
+        "close": 87.12,
+        "volume": 1072983
+      },
+      {
+        "date": "2026-08-24",
+        "close": 87.99,
+        "volume": 1074220
+      },
+      {
+        "date": "2026-08-25",
+        "close": 88.92,
+        "volume": 1075457
+      },
+      {
+        "date": "2026-08-26",
+        "close": 89.89,
+        "volume": 1076694
+      },
+      {
+        "date": "2026-08-27",
+        "close": 90.87,
+        "volume": 1077931
+      },
+      {
+        "date": "2026-08-28",
+        "close": 91.84,
+        "volume": 1079168
+      },
+      {
+        "date": "2026-08-31",
+        "close": 92.75,
+        "volume": 1080405
+      },
+      {
+        "date": "2026-09-01",
+        "close": 93.6,
+        "volume": 1081642
+      },
+      {
+        "date": "2026-09-02",
+        "close": 94.35,
+        "volume": 1082879
+      },
+      {
+        "date": "2026-09-03",
+        "close": 94.99,
+        "volume": 1084116
+      },
+      {
+        "date": "2026-09-04",
+        "close": 95.5,
+        "volume": 1085353
+      },
+      {
+        "date": "2026-09-07",
+        "close": 95.86,
+        "volume": 1086590
+      },
+      {
+        "date": "2026-09-08",
+        "close": 96.08,
+        "volume": 1087827
+      },
+      {
+        "date": "2026-09-09",
+        "close": 96.14,
+        "volume": 1089064
+      },
+      {
+        "date": "2026-09-10",
+        "close": 96.06,
+        "volume": 1090301
+      },
+      {
+        "date": "2026-09-11",
+        "close": 95.85,
+        "volume": 1091538
+      },
+      {
+        "date": "2026-09-14",
+        "close": 95.51,
+        "volume": 1092775
+      },
+      {
+        "date": "2026-09-15",
+        "close": 95.07,
+        "volume": 1094012
+      },
+      {
+        "date": "2026-09-16",
+        "close": 94.56,
+        "volume": 1095249
+      },
+      {
+        "date": "2026-09-17",
+        "close": 93.99,
+        "volume": 1096486
+      },
+      {
+        "date": "2026-09-18",
+        "close": 93.4,
+        "volume": 1097723
+      },
+      {
+        "date": "2026-09-21",
+        "close": 92.81,
+        "volume": 1098960
+      },
+      {
+        "date": "2026-09-22",
+        "close": 92.25,
+        "volume": 1100197
+      },
+      {
+        "date": "2026-09-23",
+        "close": 91.75,
+        "volume": 1101434
+      },
+      {
+        "date": "2026-09-24",
+        "close": 91.33,
+        "volume": 1102671
+      },
+      {
+        "date": "2026-09-25",
+        "close": 91.01,
+        "volume": 1103908
+      },
+      {
+        "date": "2026-09-28",
+        "close": 90.81,
+        "volume": 1105145
+      },
+      {
+        "date": "2026-09-29",
+        "close": 90.73,
+        "volume": 1106382
+      },
+      {
+        "date": "2026-09-30",
+        "close": 90.8,
+        "volume": 1107619
+      },
+      {
+        "date": "2026-10-01",
+        "close": 90.99,
+        "volume": 1108856
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Market cap",
+        "value": 56800000000,
+        "unit": "USD"
+      },
+      {
+        "label": "P/E ratio",
+        "value": 25.6,
+        "unit": "x"
+      },
+      {
+        "label": "Revenue",
+        "value": 18400000000,
+        "unit": "USD"
+      },
+      {
+        "label": "Employees",
+        "value": 17500,
+        "unit": ""
+      }
+    ],
+    "tables": [
+      {
+        "id": "income",
+        "title": "Income statement",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            9200000000,
+            8400000000
+          ],
+          [
+            "Operating income",
+            1820000000,
+            1560000000
+          ],
+          [
+            "Net income",
+            1220000000,
+            1080000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "balance",
+        "title": "Balance sheet",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Total assets",
+            18000000000,
+            17000000000
+          ],
+          [
+            "Total liabilities",
+            7800000000,
+            7600000000
+          ],
+          [
+            "Stockholder equity",
+            10200000000,
+            9400000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "cashflow",
+        "title": "Cash flow",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Operating cash flow",
+            2100000000,
+            1800000000
+          ],
+          [
+            "Capital expenditure",
+            -640000000,
+            -590000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "institutional",
+        "title": "Institutional holders",
+        "columns": [
+          "Holder",
+          "Shares",
+          "Ownership"
+        ],
+        "rows": [
+          [
+            "Sample Capital",
+            8400000,
+            "6.2%"
+          ],
+          [
+            "Example Index Fund",
+            6200000,
+            "4.6%"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "major",
+        "title": "Major shareholders",
+        "columns": [
+          "Group",
+          "Ownership"
+        ],
+        "rows": [
+          [
+            "Institutions",
+            "64%"
+          ],
+          [
+            "Insiders",
+            "8%"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "mutual",
+        "title": "Mutual fund holders",
+        "columns": [
+          "Holder",
+          "Shares"
+        ],
+        "rows": [
+          [
+            "Fictional Equity Fund",
+            2100000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "insiders",
+        "title": "Insider transactions",
+        "columns": [
+          "Date",
+          "Action",
+          "Shares"
+        ],
+        "rows": [
+          [
+            "2026-09-01",
+            "Sample purchase",
+            2000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "recommendations",
+        "title": "Analyst coverage",
+        "columns": [
+          "Period",
+          "Strong buy",
+          "Buy",
+          "Hold",
+          "Sell"
+        ],
+        "rows": [
+          [
+            "Sample month",
+            2,
+            5,
+            7,
+            1
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "analyst_summary",
+        "title": "Coverage summary",
+        "columns": [
+          "Metric",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Fictional analyst count",
+            15
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "dividends",
+        "title": "Dividend history",
+        "columns": [
+          "Date",
+          "Amount"
+        ],
+        "rows": [
+          [
+            "2026-08-15",
+            0.42
+          ],
+          [
+            "2026-05-15",
+            0.4
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "splits",
+        "title": "Stock splits",
+        "columns": [
+          "Date",
+          "Ratio"
+        ],
+        "rows": [
+          [
+            "2024-06-01",
+            "2:1 (fictional)"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      }
+    ],
+    "news": [
+      {
+        "title": "Fictional quarterly update published",
+        "publisher": "Synthetic reference",
+        "url": "https://github.com/Sushant-Nemade/MarketInsight",
+        "published_at": "2026-09-25"
+      }
+    ],
+    "summary": "Cedar Energy is a fictional company. Its sample quote is 90.99 USD as of October 1, 2026. The included statements demonstrate comparative research, not a verified investment opportunity. Review the financial, ownership and event tables alongside their source labels. No live market data or AI inference is used in this reference.",
+    "analysis_kind": "reference",
+    "sources": [
+      {
+        "name": "Authored synthetic reference dataset",
+        "url": "https://github.com/Sushant-Nemade/MarketInsight",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "limitations": [
+      "All sample companies and figures are fictional.",
+      "No live market lookup or AI inference occurred.",
+      "Educational research only; not investment advice."
+    ]
+  },
+  {
+    "question": "",
+    "id": "fc39b770-b39b-5a16-bbbe-06d2ab2cefdb",
+    "created_at": "2026-10-01T16:00:00Z",
+    "mode": "sample",
+    "ticker": "DEMO-C",
+    "name": "Meridian Health",
+    "currency": "USD",
+    "description": "Fictional healthcare company used to demonstrate evidence-based research. All prices, financial statements and ownership records in this sample are invented.",
+    "sector": "Healthcare",
+    "price": 235.63,
+    "previous_close": 235.41,
+    "price_as_of": "2026-10-01T16:00:00Z",
+    "price_kind": "synthetic",
+    "history": [
+      {
+        "date": "2026-06-01",
+        "close": 219.8,
+        "volume": 1000000
+      },
+      {
+        "date": "2026-06-02",
+        "close": 220.71,
+        "volume": 1001237
+      },
+      {
+        "date": "2026-06-03",
+        "close": 221.57,
+        "volume": 1002474
+      },
+      {
+        "date": "2026-06-04",
+        "close": 222.37,
+        "volume": 1003711
+      },
+      {
+        "date": "2026-06-05",
+        "close": 223.08,
+        "volume": 1004948
+      },
+      {
+        "date": "2026-06-08",
+        "close": 223.68,
+        "volume": 1006185
+      },
+      {
+        "date": "2026-06-09",
+        "close": 224.15,
+        "volume": 1007422
+      },
+      {
+        "date": "2026-06-10",
+        "close": 224.48,
+        "volume": 1008659
+      },
+      {
+        "date": "2026-06-11",
+        "close": 224.66,
+        "volume": 1009896
+      },
+      {
+        "date": "2026-06-12",
+        "close": 224.7,
+        "volume": 1011133
+      },
+      {
+        "date": "2026-06-15",
+        "close": 224.6,
+        "volume": 1012370
+      },
+      {
+        "date": "2026-06-16",
+        "close": 224.36,
+        "volume": 1013607
+      },
+      {
+        "date": "2026-06-17",
+        "close": 224.01,
+        "volume": 1014844
+      },
+      {
+        "date": "2026-06-18",
+        "close": 223.56,
+        "volume": 1016081
+      },
+      {
+        "date": "2026-06-19",
+        "close": 223.03,
+        "volume": 1017318
+      },
+      {
+        "date": "2026-06-22",
+        "close": 222.45,
+        "volume": 1018555
+      },
+      {
+        "date": "2026-06-23",
+        "close": 221.85,
+        "volume": 1019792
+      },
+      {
+        "date": "2026-06-24",
+        "close": 221.26,
+        "volume": 1021029
+      },
+      {
+        "date": "2026-06-25",
+        "close": 220.7,
+        "volume": 1022266
+      },
+      {
+        "date": "2026-06-26",
+        "close": 220.2,
+        "volume": 1023503
+      },
+      {
+        "date": "2026-06-29",
+        "close": 219.79,
+        "volume": 1024740
+      },
+      {
+        "date": "2026-06-30",
+        "close": 219.48,
+        "volume": 1025977
+      },
+      {
+        "date": "2026-07-01",
+        "close": 219.3,
+        "volume": 1027214
+      },
+      {
+        "date": "2026-07-02",
+        "close": 219.25,
+        "volume": 1028451
+      },
+      {
+        "date": "2026-07-03",
+        "close": 219.34,
+        "volume": 1029688
+      },
+      {
+        "date": "2026-07-06",
+        "close": 219.58,
+        "volume": 1030925
+      },
+      {
+        "date": "2026-07-07",
+        "close": 219.95,
+        "volume": 1032162
+      },
+      {
+        "date": "2026-07-08",
+        "close": 220.46,
+        "volume": 1033399
+      },
+      {
+        "date": "2026-07-09",
+        "close": 221.08,
+        "volume": 1034636
+      },
+      {
+        "date": "2026-07-10",
+        "close": 221.81,
+        "volume": 1035873
+      },
+      {
+        "date": "2026-07-13",
+        "close": 222.6,
+        "volume": 1037110
+      },
+      {
+        "date": "2026-07-14",
+        "close": 223.45,
+        "volume": 1038347
+      },
+      {
+        "date": "2026-07-15",
+        "close": 224.32,
+        "volume": 1039584
+      },
+      {
+        "date": "2026-07-16",
+        "close": 225.2,
+        "volume": 1040821
+      },
+      {
+        "date": "2026-07-17",
+        "close": 226.04,
+        "volume": 1042058
+      },
+      {
+        "date": "2026-07-20",
+        "close": 226.84,
+        "volume": 1043295
+      },
+      {
+        "date": "2026-07-21",
+        "close": 227.55,
+        "volume": 1044532
+      },
+      {
+        "date": "2026-07-22",
+        "close": 228.18,
+        "volume": 1045769
+      },
+      {
+        "date": "2026-07-23",
+        "close": 228.7,
+        "volume": 1047006
+      },
+      {
+        "date": "2026-07-24",
+        "close": 229.1,
+        "volume": 1048243
+      },
+      {
+        "date": "2026-07-27",
+        "close": 229.38,
+        "volume": 1049480
+      },
+      {
+        "date": "2026-07-28",
+        "close": 229.54,
+        "volume": 1050717
+      },
+      {
+        "date": "2026-07-29",
+        "close": 229.58,
+        "volume": 1051954
+      },
+      {
+        "date": "2026-07-30",
+        "close": 229.52,
+        "volume": 1053191
+      },
+      {
+        "date": "2026-07-31",
+        "close": 229.37,
+        "volume": 1054428
+      },
+      {
+        "date": "2026-08-03",
+        "close": 229.15,
+        "volume": 1055665
+      },
+      {
+        "date": "2026-08-04",
+        "close": 228.89,
+        "volume": 1056902
+      },
+      {
+        "date": "2026-08-05",
+        "close": 228.6,
+        "volume": 1058139
+      },
+      {
+        "date": "2026-08-06",
+        "close": 228.31,
+        "volume": 1059376
+      },
+      {
+        "date": "2026-08-07",
+        "close": 228.05,
+        "volume": 1060613
+      },
+      {
+        "date": "2026-08-10",
+        "close": 227.85,
+        "volume": 1061850
+      },
+      {
+        "date": "2026-08-11",
+        "close": 227.72,
+        "volume": 1063087
+      },
+      {
+        "date": "2026-08-12",
+        "close": 227.69,
+        "volume": 1064324
+      },
+      {
+        "date": "2026-08-13",
+        "close": 227.77,
+        "volume": 1065561
+      },
+      {
+        "date": "2026-08-14",
+        "close": 227.98,
+        "volume": 1066798
+      },
+      {
+        "date": "2026-08-17",
+        "close": 228.31,
+        "volume": 1068035
+      },
+      {
+        "date": "2026-08-18",
+        "close": 228.78,
+        "volume": 1069272
+      },
+      {
+        "date": "2026-08-19",
+        "close": 229.37,
+        "volume": 1070509
+      },
+      {
+        "date": "2026-08-20",
+        "close": 230.08,
+        "volume": 1071746
+      },
+      {
+        "date": "2026-08-21",
+        "close": 230.89,
+        "volume": 1072983
+      },
+      {
+        "date": "2026-08-24",
+        "close": 231.79,
+        "volume": 1074220
+      },
+      {
+        "date": "2026-08-25",
+        "close": 232.75,
+        "volume": 1075457
+      },
+      {
+        "date": "2026-08-26",
+        "close": 233.75,
+        "volume": 1076694
+      },
+      {
+        "date": "2026-08-27",
+        "close": 234.76,
+        "volume": 1077931
+      },
+      {
+        "date": "2026-08-28",
+        "close": 235.76,
+        "volume": 1079168
+      },
+      {
+        "date": "2026-08-31",
+        "close": 236.7,
+        "volume": 1080405
+      },
+      {
+        "date": "2026-09-01",
+        "close": 237.58,
+        "volume": 1081642
+      },
+      {
+        "date": "2026-09-02",
+        "close": 238.36,
+        "volume": 1082879
+      },
+      {
+        "date": "2026-09-03",
+        "close": 239.03,
+        "volume": 1084116
+      },
+      {
+        "date": "2026-09-04",
+        "close": 239.57,
+        "volume": 1085353
+      },
+      {
+        "date": "2026-09-07",
+        "close": 239.96,
+        "volume": 1086590
+      },
+      {
+        "date": "2026-09-08",
+        "close": 240.21,
+        "volume": 1087827
+      },
+      {
+        "date": "2026-09-09",
+        "close": 240.3,
+        "volume": 1089064
+      },
+      {
+        "date": "2026-09-10",
+        "close": 240.25,
+        "volume": 1090301
+      },
+      {
+        "date": "2026-09-11",
+        "close": 240.07,
+        "volume": 1091538
+      },
+      {
+        "date": "2026-09-14",
+        "close": 239.76,
+        "volume": 1092775
+      },
+      {
+        "date": "2026-09-15",
+        "close": 239.35,
+        "volume": 1094012
+      },
+      {
+        "date": "2026-09-16",
+        "close": 238.87,
+        "volume": 1095249
+      },
+      {
+        "date": "2026-09-17",
+        "close": 238.33,
+        "volume": 1096486
+      },
+      {
+        "date": "2026-09-18",
+        "close": 237.77,
+        "volume": 1097723
+      },
+      {
+        "date": "2026-09-21",
+        "close": 237.21,
+        "volume": 1098960
+      },
+      {
+        "date": "2026-09-22",
+        "close": 236.68,
+        "volume": 1100197
+      },
+      {
+        "date": "2026-09-23",
+        "close": 236.21,
+        "volume": 1101434
+      },
+      {
+        "date": "2026-09-24",
+        "close": 235.82,
+        "volume": 1102671
+      },
+      {
+        "date": "2026-09-25",
+        "close": 235.53,
+        "volume": 1103908
+      },
+      {
+        "date": "2026-09-28",
+        "close": 235.36,
+        "volume": 1105145
+      },
+      {
+        "date": "2026-09-29",
+        "close": 235.31,
+        "volume": 1106382
+      },
+      {
+        "date": "2026-09-30",
+        "close": 235.41,
+        "volume": 1107619
+      },
+      {
+        "date": "2026-10-01",
+        "close": 235.63,
+        "volume": 1108856
+      }
+    ],
+    "metrics": [
+      {
+        "label": "Market cap",
+        "value": 85200000000,
+        "unit": "USD"
+      },
+      {
+        "label": "P/E ratio",
+        "value": 26.6,
+        "unit": "x"
+      },
+      {
+        "label": "Revenue",
+        "value": 27600000000,
+        "unit": "USD"
+      },
+      {
+        "label": "Employees",
+        "value": 20500,
+        "unit": ""
+      }
+    ],
+    "tables": [
+      {
+        "id": "income",
+        "title": "Income statement",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Revenue",
+            9200000000,
+            8400000000
+          ],
+          [
+            "Operating income",
+            1820000000,
+            1560000000
+          ],
+          [
+            "Net income",
+            1220000000,
+            1080000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "balance",
+        "title": "Balance sheet",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Total assets",
+            18000000000,
+            17000000000
+          ],
+          [
+            "Total liabilities",
+            7800000000,
+            7600000000
+          ],
+          [
+            "Stockholder equity",
+            10200000000,
+            9400000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "cashflow",
+        "title": "Cash flow",
+        "columns": [
+          "Metric",
+          "FY 2025",
+          "FY 2024"
+        ],
+        "rows": [
+          [
+            "Operating cash flow",
+            2100000000,
+            1800000000
+          ],
+          [
+            "Capital expenditure",
+            -640000000,
+            -590000000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "institutional",
+        "title": "Institutional holders",
+        "columns": [
+          "Holder",
+          "Shares",
+          "Ownership"
+        ],
+        "rows": [
+          [
+            "Sample Capital",
+            8400000,
+            "6.2%"
+          ],
+          [
+            "Example Index Fund",
+            6200000,
+            "4.6%"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "major",
+        "title": "Major shareholders",
+        "columns": [
+          "Group",
+          "Ownership"
+        ],
+        "rows": [
+          [
+            "Institutions",
+            "64%"
+          ],
+          [
+            "Insiders",
+            "8%"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "mutual",
+        "title": "Mutual fund holders",
+        "columns": [
+          "Holder",
+          "Shares"
+        ],
+        "rows": [
+          [
+            "Fictional Equity Fund",
+            2100000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "insiders",
+        "title": "Insider transactions",
+        "columns": [
+          "Date",
+          "Action",
+          "Shares"
+        ],
+        "rows": [
+          [
+            "2026-09-01",
+            "Sample purchase",
+            2000
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "recommendations",
+        "title": "Analyst coverage",
+        "columns": [
+          "Period",
+          "Strong buy",
+          "Buy",
+          "Hold",
+          "Sell"
+        ],
+        "rows": [
+          [
+            "Sample month",
+            2,
+            5,
+            7,
+            1
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "analyst_summary",
+        "title": "Coverage summary",
+        "columns": [
+          "Metric",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Fictional analyst count",
+            15
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "dividends",
+        "title": "Dividend history",
+        "columns": [
+          "Date",
+          "Amount"
+        ],
+        "rows": [
+          [
+            "2026-08-15",
+            0.42
+          ],
+          [
+            "2026-05-15",
+            0.4
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      },
+      {
+        "id": "splits",
+        "title": "Stock splits",
+        "columns": [
+          "Date",
+          "Ratio"
+        ],
+        "rows": [
+          [
+            "2024-06-01",
+            "2:1 (fictional)"
+          ]
+        ],
+        "status": "available",
+        "note": ""
+      }
+    ],
+    "news": [
+      {
+        "title": "Fictional quarterly update published",
+        "publisher": "Synthetic reference",
+        "url": "https://github.com/Sushant-Nemade/MarketInsight",
+        "published_at": "2026-09-25"
+      }
+    ],
+    "summary": "Meridian Health is a fictional company. Its sample quote is 235.63 USD as of October 1, 2026. The included statements demonstrate comparative research, not a verified investment opportunity. Review the financial, ownership and event tables alongside their source labels. No live market data or AI inference is used in this reference.",
+    "analysis_kind": "reference",
+    "sources": [
+      {
+        "name": "Authored synthetic reference dataset",
+        "url": "https://github.com/Sushant-Nemade/MarketInsight",
+        "observed_at": "2026-10-01T16:00:00Z"
+      }
+    ],
+    "limitations": [
+      "All sample companies and figures are fictional.",
+      "No live market lookup or AI inference occurred.",
+      "Educational research only; not investment advice."
+    ]
+  }
+]
