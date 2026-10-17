@@ -1,5 +1,6 @@
 FROM node:24-alpine AS frontend
 WORKDIR /site
+COPY LICENSE NOTICE.md /
 COPY frontend/package.json frontend/package-lock.json ./
 RUN npm ci --ignore-scripts
 COPY frontend/ ./

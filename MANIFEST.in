@@ -1,4 +1,4 @@
-include README.md LICENSE NOTICE.md pyproject.toml uv.lock Dockerfile compose.yaml .env.example
+include README.md LICENSE NOTICE.md pyproject.toml uv.lock Dockerfile compose.yaml .env.example .gitattributes
 recursive-include MarketInsight *.py *.html *.json *.js *.css *.woff *.woff2 *.png *.txt *.md
 recursive-include config *.py
 recursive-include scripts *.py
