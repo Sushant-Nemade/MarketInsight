@@ -27,12 +27,18 @@ Source history, license and modification notices are preserved.
 - Main JavaScript bundle is roughly 485 KB, replacing the inherited ~2.9 MB bundle.
   Fonts are bundled locally; required production dependency notices are retained.
 
-## Required Remote Gates
+## Passed Remote Gates
 
-Linux/Windows frozen builds, installed-wheel/source checks and the non-root
-container check must pass in the repository's Verify Market Insight workflow.
-Static reference deployment is gated on its success. Final remote run URLs are
-recorded after those gates complete; local success alone is not deployment proof.
+[Verify Market Insight 39065395353](https://github.com/Sushant-Nemade/MarketInsight/actions/runs/39065395353)
+passed on revision `9a317538ad4622ff07f3e810c594640ea9a7b649`:
+Linux and Windows frozen builds, all 37 Python cases, all 20 browser cases,
+installed-wheel/source checks, metadata validation, dependency audits and the
+non-root container build/smoke check. Windows checkout line endings and Docker
+legal-notice copying are explicitly handled.
+
+Pages publication accepts only a successful push-verification run from the
+owning repository, not an untrusted PR run or a manual gate bypass. The latest
+run for any subsequent documentation/deployment-guard revision is authoritative.
 
 ## Explicit Boundaries
 
