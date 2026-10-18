@@ -8,6 +8,15 @@ usable without accounts or API keys. Live Yahoo Finance quote/history access was
 verified locally with TLS enabled. Paid model inference and managed production
 hosting are not certified or silently activated.
 
+## Public Demo
+
+[Open the public research workbench](https://sushant-ai-demos.pages.dev/MarketInsight/)
+on Cloudflare Pages. It remains accessible when the maintainer's computer is off.
+Companies and figures in this reference are fictional. Private reports, live
+market retrieval and paid model endpoints are not exposed by this static host.
+[GitHub Pages fallback](https://sushant-nemade.github.io/MarketInsight/) |
+[All project demos](https://sushant-ai-demos.pages.dev/).
+
 ## Provenance and License
 
 Adapted from [Hema Kalyan Murapaka's MarketInsight](https://github.com/KalyanM45/MarketInsight),
