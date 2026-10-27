@@ -8,7 +8,7 @@ RUN npm run build -- --logLevel error && node scripts/licenses.mjs
 
 FROM python:3.13-slim AS runtime
 WORKDIR /app
-RUN python -m pip install --no-cache-dir uv==0.13.0
+RUN python -m pip install --no-cache-dir uv==0.13.4
 COPY pyproject.toml uv.lock LICENSE NOTICE.md README.md ./
 COPY MarketInsight ./MarketInsight
 COPY config ./config
