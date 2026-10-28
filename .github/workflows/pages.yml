@@ -5,9 +5,16 @@ on:
     workflows: [Verify Market Insight]
     types: [completed]
     branches: [main]
+  workflow_dispatch:
+    inputs:
+      verified_ci_run_id:
+        description: Successful current-main CI run ID
+        required: true
+        type: string
 
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
@@ -16,8 +23,18 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  verify:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
+    permissions:
+      contents: read
+      actions: read
+    uses: Sushant-Nemade/autonomous-quality-redteam-harness/.github/workflows/maintenance-deployment-proof.yml@e205849fa00bfcafb83b1bc645ae26e9ca378b47
+    with:
+      controller_ref: e205849fa00bfcafb83b1bc645ae26e9ca378b47
+      completed_run_id: ${{ github.event_name == 'workflow_dispatch' && inputs.verified_ci_run_id || format('{0}', github.event.workflow_run.id) }}
   deploy:
-    if: github.event.workflow_run.conclusion == 'success' && (github.event.workflow_run.event == 'push' || github.event.workflow_run.event == 'workflow_dispatch') && github.event.workflow_run.head_branch == 'main' && github.event.workflow_run.head_sha == github.sha && github.event.workflow_run.head_repository.full_name == github.repository
+    needs: verify
+    if: needs.verify.outputs.verified_sha == github.sha
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:
@@ -26,7 +43,8 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
-          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          ref: ${{ needs.verify.outputs.verified_sha }}
+          persist-credentials: false
       - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97
         with:
           python-version: '3.13'
@@ -46,6 +64,14 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: frontend/dist
+      - name: Confirm verified main is still current
+        uses: actions/github-script@v8
+        env:
+          VERIFIED_SHA: ${{ needs.verify.outputs.verified_sha }}
+        with:
+          script: |
+            const { data } = await github.rest.git.getRef({ ...context.repo, ref: 'heads/main' });
+            if (data.object.sha !== process.env.VERIFIED_SHA) core.setFailed('Main changed; refusing stale deployment');
       - name: Publish reference site
         id: deployment
         uses: actions/deploy-pages@v4
