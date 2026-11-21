@@ -2,8 +2,8 @@
   "schema_version": 1,
   "repository": "Sushant-Nemade/MarketInsight",
   "source_sha": "b38b868b5ccbb09ea93da1351b31d6dc4efdca59",
-  "berlin_date": "2026-11-14",
-  "run_id": "43617899315",
+  "berlin_date": "2026-11-21",
+  "run_id": "44932516843",
   "status": "no-safe-change",
   "stages": [
     {
@@ -22,7 +22,7 @@
         "skipped": 0,
         "passed": 37
       },
-      "evidence_sha256": "677565823aa90ae57562a8fdd73d282d9174793d8f453fcd3f13d45daaa6b9de"
+      "evidence_sha256": "94434eb152493d7f3ec75d4b6b2581389c4a0057f84a91f8e039a57ce85f2d56"
     },
     {
       "name": "baseline-integration",
@@ -40,7 +40,7 @@
         "skipped": 0,
         "passed": 9
       },
-      "evidence_sha256": "c4789b5cf99123c44f9aa037d21ab8a4577cd7532746d0fbf298a51eb9946007"
+      "evidence_sha256": "1ad680677a5eeee93b98e899ab3ecd89a123ded8fa69780a20d1120c3b69c05e"
     }
   ],
   "model": {
@@ -70,10 +70,10 @@
     "errors": 0,
     "skipped": 0,
     "concurrency": 1,
-    "duration_seconds": 21.098451303000004,
-    "cpu_process_seconds": 21.208111081000002,
-    "journey_p95_ms": 21.0,
-    "journey_p99_ms": 24.019999999999996,
+    "duration_seconds": 19.115441565999987,
+    "cpu_process_seconds": 19.378200468,
+    "journey_p95_ms": 20.0,
+    "journey_p99_ms": 23.000000000000004,
     "http_request_count": null,
     "limitations": "Serial repeated regression journeys, NOT simultaneous users/browsers or a production capacity SLA. Test-defined mocks/fixtures remain in effect. HTTP requests are not independently counted.",
     "passed": true
@@ -105,8 +105,8 @@
     "response_bytes": 357
   },
   "detail": "The function already handles the case where `report.history` is empty by checking if it is not empty before accessing its first element.",
-  "duration_seconds": 387.980355312,
-  "generated_at_utc": "2026-11-14T16:58:33.352117+00:00",
-  "published_at_utc": "2026-11-14T16:58:56.547851+00:00",
-  "run_url": "https://github.com/Sushant-Nemade/MarketInsight/actions/runs/43617899315"
+  "duration_seconds": 412.88170656799997,
+  "generated_at_utc": "2026-11-21T18:01:03.417029+00:00",
+  "published_at_utc": "2026-11-21T18:01:17.931809+00:00",
+  "run_url": "https://github.com/Sushant-Nemade/MarketInsight/actions/runs/44932516843"
 }
